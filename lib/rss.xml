@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[TGK的宝藏]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>TGK的宝藏</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 29 Apr 2024 04:07:06 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 29 Apr 2024 04:06:59 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Default Theme table]]></title><description><![CDATA[ 
- <br><br><br><br><br><br><br><br>]]></description><link>33-tgklegend\01-default-table.html</link><guid isPermaLink="false">33-TGKLegend/01 - Default Table.md</guid><pubDate>Sat, 27 Apr 2024 05:48:07 GMT</pubDate><enclosure url="lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Purple Red table]]></title><description><![CDATA[ 
- <br><br><br><br>]]></description><link>33-tgklegend\02-purplered.html</link><guid isPermaLink="false">33-TGKLegend/02 - PurpleRed.md</guid><pubDate>Sun, 21 Apr 2024 08:12:58 GMT</pubDate></item><item><title><![CDATA[表格自定义样式]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[TGK的宝藏]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>TGK的宝藏</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 30 Apr 2024 20:41:50 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 30 Apr 2024 20:41:42 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Default Theme table]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br>]]></description><link>33-tgklegend\库内样式\01-default-table.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/01 - Default Table.md</guid><pubDate>Sat, 27 Apr 2024 05:48:07 GMT</pubDate><enclosure url="lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Purple Red table]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>33-tgklegend\库内样式\02-purplered.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/02 - PurpleRed.md</guid><pubDate>Sun, 21 Apr 2024 08:12:58 GMT</pubDate></item><item><title><![CDATA[表格自定义样式]]></title><description><![CDATA[ 
  <br><br>个性化表格样式，基本涵盖了各类情况<br><br>cssclass:purpleRed<br><img src="https://forum.obsidian.md/uploads/default/original/2X/2/2a323ac1ae04363c67a3888ae1017048e61a358c.png" referrerpolicy="no-referrer"><br><br>cssclass:academia<br><img src="https://forum.obsidian.md/uploads/default/original/2X/3/3698b05ba1686f75edd818d83ee8004521f7b97f.png" referrerpolicy="no-referrer"><br><br>cssclass: yellowCab<br><img src="https://forum.obsidian.md/uploads/default/original/2X/4/496148820a573990ba86cdde2787626b646635db.png" referrerpolicy="no-referrer"><br><br>cssclass: whiteRed<br><img src="https://forum.obsidian.md/uploads/default/original/2X/8/89b4baf17cd86e43df53f4b267b156f12bb78dec.png" referrerpolicy="no-referrer"><br><br>cssclass:flatBlue<br><img src="https://forum.obsidian.md/uploads/default/original/2X/5/5450179846690297d479cd1334fb99982af366f5.png" referrerpolicy="no-referrer"><br><br>XXX-rounded<br>
 表有一个额外的模式，你可以用来得到它与圆角，所有你需要做的是堆叠两个类：White red<br>
 比如可以跟白底红字表头叠加<br>cssclass: whiteRed, whiteRed-rounded, wideTable<br><img src="https://forum.obsidian.md/uploads/default/original/2X/8/8966ab854b8c103e23c8a532b0e4bd16453692e5.png" referrerpolicy="no-referrer"><br>wideTable 该类将表设置宽度为 100%，因此默认情况下会占用您的笔记宽度。可以与上面样式叠加使用。<br>其他"cssclass"类是：<br><br>
@@ -22,9 +22,73 @@
 <br>---
    cssclass: purpleRed, fixedFc
 ---
-复制<br><br><br>"TableExample/01 - Default Table.md" 未创建，点击以创建。<br><br>"TableExample/02 - PurpleRed.md" 未创建，点击以创建。<br><br>0.000000000"TableExample/03 - FlatBlue.md" 未创建，点击以创建。<br><br>"TableExample/04 - Latex like.md" 未创建，点击以创建。<br><br>"TableExample/05 - White red rounded.md" 未创建，点击以创建。<br><br>"TableExample/05 - White red.md" 未创建，点击以创建。<br><br>"TableExample/06 - Yellow cab.md" 未创建，点击以创建。<br><br>"TableExample/07 - Center Table.md" 未创建，点击以创建。]]></description><link>33-tgklegend\表格自定义样式.html</link><guid isPermaLink="false">33-TGKLegend/表格自定义样式.md</guid><pubDate>Thu, 25 Apr 2024 08:21:44 GMT</pubDate><enclosure url="https://forum.obsidian.md/uploads/default/original/2X/2/2a323ac1ae04363c67a3888ae1017048e61a358c.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://forum.obsidian.md/uploads/default/original/2X/2/2a323ac1ae04363c67a3888ae1017048e61a358c.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[东方快车谋杀案 Murder on the Orient Express]]></title><description><![CDATA[ 
+复制<br><br><br>"TableExample/01 - Default Table.md" 未创建，点击以创建。<br><br>"TableExample/02 - PurpleRed.md" 未创建，点击以创建。<br><br>0.000000000"TableExample/03 - FlatBlue.md" 未创建，点击以创建。<br><br>"TableExample/04 - Latex like.md" 未创建，点击以创建。<br><br>"TableExample/05 - White red rounded.md" 未创建，点击以创建。<br><br>"TableExample/05 - White red.md" 未创建，点击以创建。<br><br>"TableExample/06 - Yellow cab.md" 未创建，点击以创建。<br><br>"TableExample/07 - Center Table.md" 未创建，点击以创建。]]></description><link>33-tgklegend\库内样式\表格自定义样式.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/表格自定义样式.md</guid><pubDate>Thu, 25 Apr 2024 08:21:44 GMT</pubDate><enclosure url="https://forum.obsidian.md/uploads/default/original/2X/2/2a323ac1ae04363c67a3888ae1017048e61a358c.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://forum.obsidian.md/uploads/default/original/2X/2/2a323ac1ae04363c67a3888ae1017048e61a358c.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[东方快车谋杀案 Murder on the Orient Express]]></title><description><![CDATA[ 
  <br><br>东方快车谋杀案 Murder on the Orient Express [1974-11-24] | [ 128分钟 ] <img alt="bookcover|inlR" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1948648367.webp" referrerpolicy="no-referrer" style="width: 220px; max-width: 100%;"><br>
-1930年，纽约发生了一起骇人听闻的绑票撕票案，主谋卡塞蒂携赎金逍遥法外。 5年后，侦探赫丘里·波罗（艾伯特·芬尼 饰）乘船渡过博斯普鲁斯海峡，并在朋友比安奇（马丁·鲍尔萨姆 饰）的安排下登上东方快车，去往伦敦。一日凌晨，波罗被隔壁10号包间的叫声惊醒。随后，因雪堆掩埋铁轨，列车被迫停于南斯拉夫境内。波罗再次睡下不久，又被吵嚷声惊醒。贵妇哈里特·贝琳达·哈伯德（劳伦·巴考尔 饰）声称10号包间的富翁雷切特（理查德·威德马克 饰）潜入了自己的11号包间。天亮后，雷切特的管家贝多斯（约翰·吉尔古德 饰）端来了饮料，却敲不开10号包间的门。列车员皮埃尔·保罗·米歇尔（让-皮埃尔·卡塞尔 饰）用钥匙开了锁，但是里面挂了门链。波罗与皮埃尔合力扳开门，发现雷切特口角流血死不瞑目。经医生康斯坦丁（乔治·库鲁里斯 饰）检查，雷切特被下了药，身中12刀，死亡时间为0点...<br>]]></description><link>33-tgklegend\东方快车谋杀案-murder-on-the-orient-express.html</link><guid isPermaLink="false">33-TGKLegend/东方快车谋杀案 Murder on the Orient Express.md</guid><pubDate>Thu, 25 Apr 2024 08:17:24 GMT</pubDate><enclosure url="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1948648367.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1948648367.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[分栏效果示例]]></title><description><![CDATA[ 
+1930年，纽约发生了一起骇人听闻的绑票撕票案，主谋卡塞蒂携赎金逍遥法外。 5年后，侦探赫丘里·波罗（艾伯特·芬尼 饰）乘船渡过博斯普鲁斯海峡，并在朋友比安奇（马丁·鲍尔萨姆 饰）的安排下登上东方快车，去往伦敦。一日凌晨，波罗被隔壁10号包间的叫声惊醒。随后，因雪堆掩埋铁轨，列车被迫停于南斯拉夫境内。波罗再次睡下不久，又被吵嚷声惊醒。贵妇哈里特·贝琳达·哈伯德（劳伦·巴考尔 饰）声称10号包间的富翁雷切特（理查德·威德马克 饰）潜入了自己的11号包间。天亮后，雷切特的管家贝多斯（约翰·吉尔古德 饰）端来了饮料，却敲不开10号包间的门。列车员皮埃尔·保罗·米歇尔（让-皮埃尔·卡塞尔 饰）用钥匙开了锁，但是里面挂了门链。波罗与皮埃尔合力扳开门，发现雷切特口角流血死不瞑目。经医生康斯坦丁（乔治·库鲁里斯 饰）检查，雷切特被下了药，身中12刀，死亡时间为0点...<br>]]></description><link>33-tgklegend\库内样式\东方快车谋杀案-murder-on-the-orient-express.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/东方快车谋杀案 Murder on the Orient Express.md</guid><pubDate>Tue, 30 Apr 2024 16:44:46 GMT</pubDate><enclosure url="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1948648367.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1948648367.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[分栏大纲线]]></title><description><![CDATA[ 
+ <br>◮ 分三栏效果ad-col3
+<br>分三栏
+<br>第二条
+<br>sfsfsf
+
+<br>睡大觉反馈
+
+<br>见识到了卡就发了
+
+
+
+
+<br>2233454555
+<br>三番四复是发顺
+<br>3333333
+<br>5555555555
+<br>67gvdcdsa
+<br>dddd
+<br>555
+<br>44444
+<br>6666
+<br>📈 伪看板-任务嵌套
+可以随时对无序列表加入伪看板效果，不影响页面其他无需列表
+
+
+<br>紫色鸡蛋
+
+<br>Obsidian其实是紫色鸡蛋
+<br>不断灌输这个，他们就当真了
+<br>不能告诉他们真相
+
+
+<br>其实那是鸭蛋
+
+<br>事实太过残酷
+<br>不忍直视
+
+
+<br>说笑的，那真是鸡蛋
+
+<br>不信我也没办法
+<br>信鸡蛋，得永生
+
+
+<br>说笑的，那真是鸡蛋
+<br>不信我也没办法
+<br>信鸡蛋，得永生
+<br>不加勾选框也可以
+
+<br>不影响是不是鸡蛋的问题
+<br>但是有序列表不可以
+
+
+<br>没有子项的列表
+
+<br>3333
+
+
+<br>没有子项的列表2
+<br>测试3没有子项的列表2
+<br>没有子项的列表2没有子项的列表2
+<br>没有子项的列表2没有子项的列表2没有子项的列表2
+<br>没有子项的列表2没有子项的列表2没有子项的列表2
+]]></description><link>33-tgklegend\库内样式\分栏大纲线.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/分栏大纲线.md</guid><pubDate>Tue, 30 Apr 2024 07:46:03 GMT</pubDate></item><item><title><![CDATA[分栏效果示例]]></title><description><![CDATA[ 
  <br><br>AD是Admonition简称，通过添加ad类型，实现各类样式控制。<br>
 AD版本9.0以后已经演变成了callout辅助工具，所以只要是callout支持的类型，或者自定义的callout类型，ad写法也是支持的。<br>
 下面以Blue Topaz主题内置的ad样式举例说明，目前支持的ad样式有：<br>
@@ -420,25 +484,208 @@ AD版本9.0以后已经演变成了callout辅助工具，所以只要是callout�
 <br>📝 写作计划
 <br>✏ 实验记录
 <br>...
-]]></description><link>33-tgklegend\fenlan.html</link><guid isPermaLink="false">33-TGKLegend/fenlan.md</guid><pubDate>Sat, 27 Apr 2024 05:45:11 GMT</pubDate><enclosure url="lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[各类列表和彩虹大纲线]]></title><description><![CDATA[ 
- ]]></description><link>33-tgklegend\各类列表和彩虹大纲线.html</link><guid isPermaLink="false">33-TGKLegend/各类列表和彩虹大纲线.md</guid><pubDate>Fri, 19 Apr 2024 05:22:03 GMT</pubDate></item><item><title><![CDATA[未命名]]></title><description><![CDATA[ 
- <br>
-<br>士大夫家里的刷卡机
+]]></description><link>33-tgklegend\库内样式\fenlan.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/fenlan.md</guid><pubDate>Sat, 27 Apr 2024 05:45:11 GMT</pubDate><enclosure url="lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[各类列表和彩虹大纲线]]></title><description><![CDATA[<a class="tag" href="?query=tag:list" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#list</a> 
+ <br><a href=".?query=tag:list" class="tag" target="_blank" rel="noopener">#list</a> <br><br>
+<br>aaa
 
-<br>水电开发离开家
+<br>aaa
 
-<br>上岛咖啡环境来看
+<br>4444
+<br>aaa
 
-<br>fdsgljsdgl
+<br>33333
+
+<br>4444
+
+<br>444
+
+
+
+
+<br>4444 
+
+
+<br>aaa
+
+
+<br>5555
+
+
+<br>55555
+<br><br>
+<br>aaa
+<br>aaa
+
+<br>2222
+
+<br>4444
+
+<br>333
+<br>5555
+
+
+<br>55555
+
+
+<br>2333
+
+
+<br>2222
+
+<br>222
+<br>222
+<br>444
+
+
+<br>aaa
+
+<br>3333
+<br>aaa
+
+<br>aaa
+
+
+
+
+<br>ccc
+<br>ddd
+
+<br>aaa
+
+<br>22
+
+<br>33
+<br>44
+
+
+<br>44
+
+
+<br>bbb
+
+
+<br><br><br>
+<br>
+第一层级I
+
+<br>第二层级
+
+<br>第三层级
+
+<br>第四层级
+
+<br>第五层级
+
+<br>第六层级
+
+<br>第七层级
+
+<br>第八层级
+
+<br>第九层级
+
+
+<br>第八层级2
+
+
+<br>第七层及2第六层级2
+
+
+
+
+<br>第五层级2
+
+
+<br>第四层级2
+
+
+<br>第三层级2
+
+
+<br>第二层级2
+
+
+<br>
+第一层级2
+
+<br>
+一级
+
+<br>222
+<br>4444
+
+
+<br>
+1111
+
+<br>2222
+<br>2222
+
+<br>333
+<br>3333
+
+
+<br>2222
+
+
+<br>
+11111
+
+<br>
+<br>aaa
+
+<br>2222
+
+<br>22222
+<br>33333
+
+<br>222
+
+<br>222224444
+
+<br>3333
+
+<br>3333
+<br>ee
+
+<br>fsfsfs
+<br>44444
 
 
 
 
 
 
-]]></description><link>33-tgklegend\未命名.html</link><guid isPermaLink="false">33-TGKLegend/未命名.md</guid><pubDate>Thu, 18 Apr 2024 08:44:35 GMT</pubDate></item><item><title><![CDATA[TIPS]]></title><description><![CDATA[<a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:dailynote" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#dailynote</a> <a class="tag" href="?query=tag:weeklynote" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#weeklynote</a> <a class="tag" href="?query=tag:ideas" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ideas</a> <a class="tag" href="?query=tag:questions" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#questions</a> <a class="tag" href="?query=tag:重要" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#重要</a> <a class="tag" href="?query=tag:完成" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#完成</a> <a class="tag" href="?query=tag:进行中" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#进行中</a> <a class="tag" href="?query=tag:important" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#important</a> <a class="tag" href="?query=tag:complete" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#complete</a> <a class="tag" href="?query=tag:inprogress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#inprogress</a> 
- <br><br><a data-href="33-TGKLegend/未命名" href="\33-tgklegend\未命名.html" class="internal-link" target="_self" rel="noopener">33-TGKLegend/未命名</a><br>
-<a class="internal-link" data-href="33-TGKLegend/未命名.md" href="\33-tgklegend\未命名.html" target="_self" rel="noopener">未命名</a><br>这是Blue Topaz的演示库，最新版本建议从社区商店更新。附带了Style Settings插件与Admonition插件。目前支持Live preview模式同时附带了其他一些插件，可供使用。<br>
+
+
+<br>222
+
+
+<br>333
+
+
+<br>333
+
+
+<br>3333
+<br>
+<br>333
+
+<br>asdasd
+<br>44
+
+<br>55
+<br>66
+
+
+<br>55
+
+
+<br>ddd
+<br>ddd
+]]></description><link>33-tgklegend\库内样式\各类列表和彩虹大纲线.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/各类列表和彩虹大纲线.md</guid><pubDate>Tue, 30 Apr 2024 07:49:57 GMT</pubDate></item><item><title><![CDATA[TIPS]]></title><description><![CDATA[<a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:dailynote" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#dailynote</a> <a class="tag" href="?query=tag:weeklynote" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#weeklynote</a> <a class="tag" href="?query=tag:ideas" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ideas</a> <a class="tag" href="?query=tag:questions" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#questions</a> <a class="tag" href="?query=tag:重要" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#重要</a> <a class="tag" href="?query=tag:完成" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#完成</a> <a class="tag" href="?query=tag:进行中" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#进行中</a> <a class="tag" href="?query=tag:important" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#important</a> <a class="tag" href="?query=tag:complete" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#complete</a> <a class="tag" href="?query=tag:inprogress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#inprogress</a> 
+ <br><br><a data-href="33-TGKLegend/库内样式/分栏大纲线" href="\33-tgklegend\库内样式\分栏大纲线.html" class="internal-link" target="_self" rel="noopener">33-TGKLegend/库内样式/分栏大纲线</a><br>
+<a class="internal-link" data-href="33-TGKLegend/库内样式/分栏大纲线.md" href="\33-tgklegend\库内样式\分栏大纲线.html" target="_self" rel="noopener">分栏大纲线</a><br>这是Blue Topaz的演示库，最新版本建议从社区商店更新。附带了Style Settings插件与Admonition插件。目前支持Live preview模式同时附带了其他一些插件，可供使用。<br>
 需要特别说明的是Codemirror插件，这个插件因为样式比较复杂多变，使用此插件会可能会出现样式上的bug。这里会给出一些Blue Topaz的展示、以及一些特别的用法，希望对你有帮助。
 我不确定这个库会被传播到何处，所以给一个发布的QQ群号，也是Topaz社区所在的地方908688452。<br>
 开始部分的最后，感谢Topaz社区的各位，没有社区的各位，不会有现在的主题。这个主题献给他们。<br><br>在笔记中，不可避到一些强调方式，比如加粗、高亮等等，这里做一个展示：<br>
@@ -593,7 +840,7 @@ cssclass: img-grid
 cssclass: code-wrap
 ---
 复制<br>例子：<br>
-<a data-href="code-wrap【代码块自动换行】" href="\code-wrap【代码块自动换行】" class="internal-link" target="_self" rel="noopener">code-wrap【代码块自动换行】</a> <a data-href="33-TGKLegend/index" href="\33-tgklegend\index.html" class="internal-link" target="_self" rel="noopener">33-TGKLegend/index</a><br><br>行内列表，可以和行内图片一起使用<br>---
+<a data-href="code-wrap【代码块自动换行】" href="\code-wrap【代码块自动换行】" class="internal-link" target="_self" rel="noopener">code-wrap【代码块自动换行】</a> <a data-href="33-TGKLegend/库内样式/index" href="\33-tgklegend\库内样式\index.html" class="internal-link" target="_self" rel="noopener">33-TGKLegend/库内样式/index</a><br><br>行内列表，可以和行内图片一起使用<br>---
 cssclass: inline-list
 ---
 复制<br>例子：<br>
@@ -613,7 +860,7 @@ ssss<br>
 5555
 <br>
 真的，不骗人。
-<br><br><a data-href="33-TGKLegend/各类列表和彩虹大纲线" href="\33-tgklegend\各类列表和彩虹大纲线.html" class="internal-link" target="_self" rel="noopener">33-TGKLegend/各类列表和彩虹大纲线</a><br><br><a data-href="分栏效果示例" href="\分栏效果示例" class="internal-link" target="_self" rel="noopener">分栏效果示例</a><br><br><a data-href="四象限表格" href="\四象限表格" class="internal-link" target="_self" rel="noopener">四象限表格</a><br><br>
+<br><br><a data-href="33-TGKLegend/库内样式/各类列表和彩虹大纲线" href="\33-tgklegend\库内样式\各类列表和彩虹大纲线.html" class="internal-link" target="_self" rel="noopener">33-TGKLegend/库内样式/各类列表和彩虹大纲线</a><br><br><a data-href="分栏效果示例" href="\分栏效果示例" class="internal-link" target="_self" rel="noopener">分栏效果示例</a><br><br><a data-href="四象限表格" href="\四象限表格" class="internal-link" target="_self" rel="noopener">四象限表格</a><br><br>
 在Style settings 插件2.3.6嵌入样式开启固定嵌入页面高度即可生效。
 <br>"分栏效果示例" 未创建，点击以创建。<br><br>
 <br>表格自定义样式并没有内置在主题中，需要启用【自定义】表格样式TableStyles.css
@@ -623,4 +870,4 @@ ssss<br>
 <br><br><a data-href="ob提示框(callout)样式展示" href="\ob提示框(callout)样式展示" class="internal-link" target="_self" rel="noopener">ob提示框(callout)样式展示</a><br>cout&lt;&lt;"asdjflk1"
 复制<br>Dictum
 you know what?
-]]></description><link>33-tgklegend\index.html</link><guid isPermaLink="false">33-TGKLegend/index.md</guid><pubDate>Mon, 29 Apr 2024 04:05:52 GMT</pubDate><enclosure url="https://user-images.githubusercontent.com/72023275/164036501-59f3c87d-0974-4671-a998-498b03b3f042.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/72023275/164036501-59f3c87d-0974-4671-a998-498b03b3f042.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>33-tgklegend\库内样式\index.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/index.md</guid><pubDate>Tue, 30 Apr 2024 13:36:03 GMT</pubDate><enclosure url="https://user-images.githubusercontent.com/72023275/164036501-59f3c87d-0974-4671-a998-498b03b3f042.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/72023275/164036501-59f3c87d-0974-4671-a998-498b03b3f042.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

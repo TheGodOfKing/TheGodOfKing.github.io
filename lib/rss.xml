@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[TGK的宝藏]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>TGK的宝藏</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 30 Apr 2024 20:41:50 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 30 Apr 2024 20:41:42 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Default Theme table]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[TGK的宝藏]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>TGK的宝藏</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 01 May 2024 08:47:54 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 01 May 2024 08:47:46 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Default Theme table]]></title><description><![CDATA[ 
  <br><br><br><br><br><br><br><br>]]></description><link>33-tgklegend\库内样式\01-default-table.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/01 - Default Table.md</guid><pubDate>Sat, 27 Apr 2024 05:48:07 GMT</pubDate><enclosure url="lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\1dba4bae1ea2d360647c1a070bcb2068.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Purple Red table]]></title><description><![CDATA[ 
  <br><br><br><br>]]></description><link>33-tgklegend\库内样式\02-purplered.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/02 - PurpleRed.md</guid><pubDate>Sun, 21 Apr 2024 08:12:58 GMT</pubDate></item><item><title><![CDATA[表格自定义样式]]></title><description><![CDATA[ 
  <br><br>个性化表格样式，基本涵盖了各类情况<br><br>cssclass:purpleRed<br><img src="https://forum.obsidian.md/uploads/default/original/2X/2/2a323ac1ae04363c67a3888ae1017048e61a358c.png" referrerpolicy="no-referrer"><br><br>cssclass:academia<br><img src="https://forum.obsidian.md/uploads/default/original/2X/3/3698b05ba1686f75edd818d83ee8004521f7b97f.png" referrerpolicy="no-referrer"><br><br>cssclass: yellowCab<br><img src="https://forum.obsidian.md/uploads/default/original/2X/4/496148820a573990ba86cdde2787626b646635db.png" referrerpolicy="no-referrer"><br><br>cssclass: whiteRed<br><img src="https://forum.obsidian.md/uploads/default/original/2X/8/89b4baf17cd86e43df53f4b267b156f12bb78dec.png" referrerpolicy="no-referrer"><br><br>cssclass:flatBlue<br><img src="https://forum.obsidian.md/uploads/default/original/2X/5/5450179846690297d479cd1334fb99982af366f5.png" referrerpolicy="no-referrer"><br><br>XXX-rounded<br>
@@ -88,7 +88,7 @@
 <br>没有子项的列表2没有子项的列表2
 <br>没有子项的列表2没有子项的列表2没有子项的列表2
 <br>没有子项的列表2没有子项的列表2没有子项的列表2
-]]></description><link>33-tgklegend\库内样式\分栏大纲线.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/分栏大纲线.md</guid><pubDate>Tue, 30 Apr 2024 07:46:03 GMT</pubDate></item><item><title><![CDATA[分栏效果示例]]></title><description><![CDATA[ 
+]]></description><link>33-tgklegend\库内样式\分栏大纲线.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/分栏大纲线.md</guid><pubDate>Wed, 01 May 2024 07:57:54 GMT</pubDate></item><item><title><![CDATA[分栏效果示例]]></title><description><![CDATA[ 
  <br><br>AD是Admonition简称，通过添加ad类型，实现各类样式控制。<br>
 AD版本9.0以后已经演变成了callout辅助工具，所以只要是callout支持的类型，或者自定义的callout类型，ad写法也是支持的。<br>
 下面以Blue Topaz主题内置的ad样式举例说明，目前支持的ad样式有：<br>
@@ -669,7 +669,8 @@ AD版本9.0以后已经演变成了callout辅助工具，所以只要是callout�
 
 <br>3333
 <br>
-<br>333
+<br>
+333
 
 <br>asdasd
 <br>44
@@ -681,9 +682,115 @@ AD版本9.0以后已经演变成了callout辅助工具，所以只要是callout�
 <br>55
 
 
-<br>ddd
-<br>ddd
-]]></description><link>33-tgklegend\库内样式\各类列表和彩虹大纲线.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/各类列表和彩虹大纲线.md</guid><pubDate>Tue, 30 Apr 2024 07:49:57 GMT</pubDate></item><item><title><![CDATA[TIPS]]></title><description><![CDATA[<a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:dailynote" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#dailynote</a> <a class="tag" href="?query=tag:weeklynote" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#weeklynote</a> <a class="tag" href="?query=tag:ideas" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ideas</a> <a class="tag" href="?query=tag:questions" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#questions</a> <a class="tag" href="?query=tag:重要" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#重要</a> <a class="tag" href="?query=tag:完成" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#完成</a> <a class="tag" href="?query=tag:进行中" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#进行中</a> <a class="tag" href="?query=tag:important" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#important</a> <a class="tag" href="?query=tag:complete" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#complete</a> <a class="tag" href="?query=tag:inprogress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#inprogress</a> 
+<br>
+ddd
+
+<br>
+ddd
+
+<br>
+Unchecked - [ ]
+
+<br>
+Checked - [x]
+
+<br>
+Rescheduled - [&gt;]
+
+<br>
+Scheduled - [&lt;]
+
+<br>
+Important - [!]
+
+<br>
+Cancelled - [-]
+
+<br>
+In Progress - [/]
+
+<br>
+Quote- ["]
+
+<br>
+Question - [?]
+
+<br>
+Star - [*]
+
+<br>
+Note - [n]
+
+<br>
+Location - [l]
+
+<br>
+Information - [i]
+
+<br>
+Idea - [I]
+
+<br>
+Amount - [S]
+
+<br>
+Pro - [p]
+
+<br>
+Con - [c]
+
+<br>
+Bookmark - [b]
+
+<br>
+Fire - [ f ]
+
+<br>
+Win - [w]
+
+<br>
+Key - [k]
+
+<br>
+Up - [u]
+
+<br>
+down - [d]
+
+<br>
+Feature - [F]
+
+<br>
+Rule - [r]
+
+<br>
+Measurement - [m]
+
+<br>
+Medical - [M]
+
+<br>
+Language - [L]
+
+<br>
+Clock - [t]
+
+<br>
+Telephone - [T]
+
+<br>
+Person - [P]
+
+<br>
+Tags - [#]
+
+<br>
+World - [W]
+
+<br>
+Universe - [U]
+
+]]></description><link>33-tgklegend\库内样式\各类列表和彩虹大纲线.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/各类列表和彩虹大纲线.md</guid><pubDate>Wed, 01 May 2024 07:58:06 GMT</pubDate></item><item><title><![CDATA[TIPS]]></title><description><![CDATA[<a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:tag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#tag</a> <a class="tag" href="?query=tag:dailynote" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#dailynote</a> <a class="tag" href="?query=tag:weeklynote" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#weeklynote</a> <a class="tag" href="?query=tag:ideas" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ideas</a> <a class="tag" href="?query=tag:questions" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#questions</a> <a class="tag" href="?query=tag:重要" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#重要</a> <a class="tag" href="?query=tag:完成" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#完成</a> <a class="tag" href="?query=tag:进行中" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#进行中</a> <a class="tag" href="?query=tag:important" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#important</a> <a class="tag" href="?query=tag:complete" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#complete</a> <a class="tag" href="?query=tag:inprogress" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#inprogress</a> 
  <br><br><a data-href="33-TGKLegend/库内样式/分栏大纲线" href="\33-tgklegend\库内样式\分栏大纲线.html" class="internal-link" target="_self" rel="noopener">33-TGKLegend/库内样式/分栏大纲线</a><br>
 <a class="internal-link" data-href="33-TGKLegend/库内样式/分栏大纲线.md" href="\33-tgklegend\库内样式\分栏大纲线.html" target="_self" rel="noopener">分栏大纲线</a><br>这是Blue Topaz的演示库，最新版本建议从社区商店更新。附带了Style Settings插件与Admonition插件。目前支持Live preview模式同时附带了其他一些插件，可供使用。<br>
 需要特别说明的是Codemirror插件，这个插件因为样式比较复杂多变，使用此插件会可能会出现样式上的bug。这里会给出一些Blue Topaz的展示、以及一些特别的用法，希望对你有帮助。
@@ -744,9 +851,7 @@ cssclass: colorful-highlight 对改文档启动<br>
 复制<br><br><br><br>可以点击To Recall下方长条，显示隐藏的文本<br>text
 复制<br><br>打群主，分bug
 复制<br>Tipadmonition里也设置了这种样式，需要在Style Settings插件里启用<br>
-并且在Admonition插件里设置才可以<br>
-<br>打群主，分bug
-<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. （删除+高亮组合：==~~涂黑~~==鼠标悬浮触发）<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doe eiusmod tempor incididunt ut labore et dolore magna aliqua. （删除+高亮+斜体组合：*==~~涂彩~~==*点击触发）<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. （删除+斜体组合：*~~挖空~~*点击触发 无背景颜色）<br>以上效果无需另外开启，主题默认支持，如果想取消在2.3.10中关闭，即使关闭了也可以在YAML中声明cssclass: cloze 对该笔记启用。<br>
+并且在Admonition插件里设置才可以<br>打群主，分bug<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. （删除+高亮组合：==~~涂黑~~==鼠标悬浮触发）<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doe eiusmod tempor incididunt ut labore et dolore magna aliqua. （删除+高亮+斜体组合：*==~~涂彩~~==*点击触发）<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. （删除+斜体组合：*~~挖空~~*点击触发 无背景颜色）<br>以上效果无需另外开启，主题默认支持，如果想取消在2.3.10中关闭，即使关闭了也可以在YAML中声明cssclass: cloze 对该笔记启用。<br>
 <img alt="image" src="https://user-images.githubusercontent.com/72023275/164038180-c6e2dff4-9aee-4f42-8051-854a748979ec.png" referrerpolicy="no-referrer"><br>对于样式的更改，可以在style settings 2.3.10 中找到<br>
 <img alt="image" src="https://user-images.githubusercontent.com/72023275/164038350-9424af22-7eac-42f3-b10b-e233a51202a8.png" referrerpolicy="no-referrer"><br><br>也没什么特别的<br>text
 复制<br><br>这些用法算是给强调文字做一个补充，但是更多的可能是娱乐性质。
@@ -870,4 +975,4 @@ ssss<br>
 <br><br><a data-href="ob提示框(callout)样式展示" href="\ob提示框(callout)样式展示" class="internal-link" target="_self" rel="noopener">ob提示框(callout)样式展示</a><br>cout&lt;&lt;"asdjflk1"
 复制<br>Dictum
 you know what?
-]]></description><link>33-tgklegend\库内样式\index.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/index.md</guid><pubDate>Tue, 30 Apr 2024 13:36:03 GMT</pubDate><enclosure url="https://user-images.githubusercontent.com/72023275/164036501-59f3c87d-0974-4671-a998-498b03b3f042.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/72023275/164036501-59f3c87d-0974-4671-a998-498b03b3f042.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>33-tgklegend\库内样式\index.html</link><guid isPermaLink="false">33-TGKLegend/库内样式/index.md</guid><pubDate>Wed, 01 May 2024 06:17:46 GMT</pubDate><enclosure url="https://user-images.githubusercontent.com/72023275/164036501-59f3c87d-0974-4671-a998-498b03b3f042.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/72023275/164036501-59f3c87d-0974-4671-a998-498b03b3f042.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
